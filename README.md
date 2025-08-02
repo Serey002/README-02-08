@@ -68,19 +68,19 @@ npm install
 # 🔧 Usage
 To run the server in development mode:
 
-```http
+```
 npm run dev
 ```
 
 To start the server normally:
 
-```http
+```
 npm start
 ```
 
 Access the API at
 
-```http
+```
 http://localhost:3000/api
 ```
 
@@ -106,7 +106,7 @@ JWT_SECRET=your_jwt_secret_key
 
 # 🧪 Scripts
 
-```http
+```
 npm start       # Start the server
 npm run dev     # Start with nodemon
 npm test        # Run test cases
