@@ -51,14 +51,14 @@ A Node.js-based application designed to simplify and automate school administrat
 
 Clone the project and install dependencies:
 
-```http
+```
 git clone https://github.com/your-username/school-management-system.git
 ```
-```http
+```
 cd school-management-system
 ```
 
-```http
+```
 npm install
 ```
 
@@ -114,7 +114,7 @@ npm test        # Run test cases
 
 # 👥 Contributors
 
-  <a href="https://github.com/user1">
+  <a href="https://github.com/Serey002">
     <img src="profile.png" width="50" style="border-radius: 50%;" alt="User1"/>
   </a>
 
